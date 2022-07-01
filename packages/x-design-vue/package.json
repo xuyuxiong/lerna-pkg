@@ -1,0 +1,19 @@
+{
+  "name": "x-design-vue",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xuyuxiong <1206205517@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/x-design-vue.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
